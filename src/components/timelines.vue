@@ -97,7 +97,7 @@
                         <span class="text-caption text-grey q-ml-sm">4.2 (551)</span>
                     </div>
                     <div class="col">
-                       <small>10 days ago</small>
+                       <small>10 days ag</small>
                     </div>
                   </div>
                 </q-card>
