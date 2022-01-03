@@ -8,8 +8,8 @@ export const bus = new Vue()
 
 // GLOBAL STATIC VARIABLES
 // api static variable
-Vue.prototype.$hostname = 'http://localhost/MY_WEB_WORKS/backslash/api/'
+Vue.prototype.$hostname = 'http://localhost/webapp/backslash/api/'
 // Vue.prototype.$hostname = 'https://backslash/api/'
 
 // public image static variable
-Vue.prototype.$imageFolder = 'http://localhost/MY_WEB_WORKS/backslash/public/image/'
+Vue.prototype.$imageFolder = 'http://localhost/webapp/backslash/public/image/'

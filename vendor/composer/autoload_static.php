@@ -147,6 +147,7 @@ class ComposerStaticInit1c0a9d780e98b260866c3dcde3248605
     );
 
     public static $classMap = array (
+        'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'JsonException' => __DIR__ . '/..' . '/symfony/polyfill-php73/Resources/stubs/JsonException.php',
         'Models\\department' => __DIR__ . '/../..' . '/controller/Models/department.php',
         'Models\\program_type' => __DIR__ . '/../..' . '/controller/Models/program_type.php',

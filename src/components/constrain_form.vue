@@ -158,7 +158,7 @@ export default {
             school_id: response.data[index].school_id,
             label: response.data[index].school_title,
             value: response.data[index].school_id,
-            icon: this.$imageFolder + 'schools/' + response.data[index].school_id + '/' + response.data[index].school_icon,
+            icon: this.$imageFolder + 'schools/' + response.data[index].school_id + '/icon/' + response.data[index].school_icon,
             full_time: response.data[index].full_time,
             part_time: response.data[index].part_time,
             school_type: response.data[index].school_type
